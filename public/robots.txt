@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: archives.html
+Disallow: series.html
+Disallow: 404.html
+
+Sitemap: /sitemap.xml

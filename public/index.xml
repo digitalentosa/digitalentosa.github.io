@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalentosa</title>
+    <link>/</link>
+    <description>Recent content on Digitalentosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jul 2021 15:15:26 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Content, IA &amp; Analytics</title>
+      <link>/services/web-analytics/</link>
+      <pubDate>Tue, 27 Jul 2021 15:15:26 +1000</pubDate>
+      
+      <guid>/services/web-analytics/</guid>
+      <description>Writing for the web or web copywriting is one of the most important processes for ecom SEO. From product descriptions to user guides and category pages copy, good copywriting can keep users engaged and lead them to some form of action.
+Keyword Research A Keyword Research (with a good technical audit) is the starting point of a SEO Project. This analysis can help your business define what are the keywords relevant to your products and brand.</description>
+    </item>
+    
+    <item>
+      <title>Ecom Technical Audits</title>
+      <link>/services/technical-audits/</link>
+      <pubDate>Tue, 27 Jul 2021 15:15:26 +1000</pubDate>
+      
+      <guid>/services/technical-audits/</guid>
+      <description>Get an overview of technical issues that might hinder your website and users experience.
+ Website Manual Review Content Management System Review Hosting &amp;amp; SSL Google Search Console Implementation &amp;amp; Verification (+ Google Merchant Center) Crawling &amp;amp; Indexing (Sitemaps; robots.txt; Meta Tags &amp;amp; JavaScript Content) Shopify SEO VTEX SEO  What the industry is talking about Technical SEO  Google Search Central on Advanced SEO SEO Mythbusting with Martin Splitt from Google Search Relations team Lily Ray Column on Search Engine Journal Free Technical SEO Guides from learningseo.</description>
+    </item>
+    
+    <item>
+      <title>International SEO</title>
+      <link>/services/international-seo/</link>
+      <pubDate>Tue, 27 Jul 2021 12:33:46 +1000</pubDate>
+      
+      <guid>/services/international-seo/</guid>
+      <description>International SEO is the process of optimizing your website so that users find the best result based on their location and language. An important digital strategy for companies that do business in different localizations and/or different languages.
+Objectives of International SEO Thinking about targeting different countries or languages? Here are a few objectives of this process:
+ Guide development with an international perspective &amp;amp; audience language/localization; Improve Search Visibility accross different countries avoiding keyword cannibalization; Manage different SEO Projects according to language, localization &amp;amp; device.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 29 Jul 2021 17:01:34 +0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Digitalentosa was born from an internal need of mine to bring to the surface more content and knowledge about digital and web based products &amp;amp; communications. Digital evolves quickly. It&amp;rsquo;s not easy to keep up with the Gates in the digital realm.
+ Formal knowledge and experience are important, but I care more about solving real problems with data, research &amp;amp; creativity
+ Values  Simplicity &amp;amp; Accessibility Customer Centric Basics done well first!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 29 Jul 2021 17:01:34 +0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Get in touch with me today to learn more or apply for a starter free consultation.</description>
+    </item>
+    
+  </channel>
+</rss>
