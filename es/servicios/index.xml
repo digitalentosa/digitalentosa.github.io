@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servicios on Digitalentosa | ES</title>
+    <link>/es/servicios/</link>
+    <description>Recent content in Servicios on Digitalentosa | ES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/es/servicios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEO Internacional</title>
+      <link>/es/servicios/seo/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/es/servicios/seo/</guid>
+      <description>El SEO internacional es el proceso de optimización de su sitio web para que los usuarios encuentren el mejor resultado en función de su ubicación e idioma. Una importante estrategia digital para empresas que hacen negocios en diferentes localizaciones y / o diferentes idiomas.
+Objetivos del SEO internacional ¿Está pensando en dirigirse a diferentes países o idiomas? A continuación, se muestran algunos objetivos de este proceso:
+ Guiar el desarrollo con una perspectiva internacional y un idioma / localización de la audiencia; Mejorar la visibilidad de búsqueda en diferentes países evitando la canibalización de palabras clave; Gestione diferentes proyectos de SEO según idioma, localización y dispositivo.</description>
+    </item>
+    
+    <item>
+      <title>Contenido Web, IA y Analytics</title>
+      <link>/es/servicios/web-analytics/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/es/servicios/web-analytics/</guid>
+      <description>Escribir para la web o copywriting web es uno de los procesos más importantes para ecom SEO. Desde descripciones de productos hasta guías de usuario y copia de páginas de categorías, una buena redacción publicitaria puede mantener a los usuarios interesados ​​y llevarlos a alguna forma de acción.
+Investigación de palabras clave Una investigación de palabras clave (con una buena auditoría técnica) es el punto de partida de un proyecto de SEO.</description>
+    </item>
+    
+    <item>
+      <title>Auditorías técnicas de SEO</title>
+      <link>/es/servicios/technical-audits/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/es/servicios/technical-audits/</guid>
+      <description>Obtenga una descripción general de los problemas técnicos que pueden obstaculizar su sitio web y la experiencia de los usuarios.
+ Revisión del manual del sitio web Revisión del sistema de gestión de contenido Hosting y SSL Implementación y verificación de Google Search Console (+ Google Merchant Center) Rastreo e indexación (sitemaps.xml; robots.txt; meta tags y contenido JavaScript) Shopify SEO Vtex SEO  De que habla la industria SEO técnico  Google Search Central sobre SEO avanzado SEO Mythbusting con Martin Splitt del equipo de Relaciones de búsqueda de Google Columna de Lily Ray en Search Engine Journal Guías técnicas de SEO gratuitas de learningseo.</description>
+    </item>
+    
+    <item>
+      <title>SEO en Shopify</title>
+      <link>/es/servicios/shopify-seo/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/es/servicios/shopify-seo/</guid>
+      <description>Shopify SEO</description>
+    </item>
+    
+    <item>
+      <title>SEO en Vtex</title>
+      <link>/es/servicios/vtex-seo/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>/es/servicios/vtex-seo/</guid>
+      <description>VTEX SEO</description>
+    </item>
+    
+  </channel>
+</rss>
